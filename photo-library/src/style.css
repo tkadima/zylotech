@@ -1,0 +1,17 @@
+.title {
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+.material-icons {
+  color: #FF1493;
+  float:right;
+  font-size: 35px;
+}
+.library {
+  margin-top: 45px;
+}
+
+.img-responsive {
+  margin: 30px;
+}
